@@ -10,21 +10,13 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 **Background in:** Python, Machine Learning, CLP/PLC, Sistemas Supervisórios.
 
 **Links:**
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/in/octaviano-silva-74a530207/)
 * [Medium](https://medium.com/@silv.octaviano)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
-
+* **Analisando dados do Airbnb em Tokyo** https://bityli.com/r8fKQ
 ---
 
 
