@@ -16,7 +16,7 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 
 ## Projetos:
 
-* **Analisando dados do Airbnb em Tóquio** https://bityli.com/r8fKQ
+* **Analisando dados do Airbnb em Tóquio** https://bityli.com/F4hhq
 ---
 
 
