@@ -18,6 +18,7 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 
 * **Analisando dados do Airbnb em Tóquio** https://bityli.com/2tbXN
 * **Analisando a violência no Rio de Janeiro** https://bityli.com/WIWf2
+* **Estudo de caso da COVID-19**
 ---
 
 
