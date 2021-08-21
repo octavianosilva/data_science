@@ -21,6 +21,7 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 * **Estudo de caso da COVID-19** https://bityli.com/8QBX2
 * **Detecção de fraudes em cartões de crédito** https://cutt.ly/SmqFiaA
 * **Churn Prediction em Telecomunicações** https://bityli.com/Gl1nL
+* **Análise de Risco de Crédito** https://bityli.com/nOU3I
 ---
 
 
