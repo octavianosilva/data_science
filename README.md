@@ -23,6 +23,7 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 * **Churn Prediction em Telecomunicações** https://bityli.com/I6hkE
 * **Análise de Risco de Crédito** https://bityli.com/NJDJy
 * **Deploy de API para previsão de preços de apartamentos na cidade de São Paulo** https://bityli.com/O64Z6T
+* **Detecção de Fake News com Redes Neurais**  https://bityli.com/Ck0Eun
 ---
 
 
