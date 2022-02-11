@@ -11,7 +11,6 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/octaviano-silva-74a530207/)
-* [Medium](https://medium.com/@silv.octaviano)
 
 
 ## Projetos:
