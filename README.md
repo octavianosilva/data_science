@@ -24,7 +24,7 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 * **Deploy de API para previsão de preços de apartamentos na cidade de São Paulo** https://bityli.com/O64Z6T
 * **Detecção de Fake News com Redes Neurais**  https://bityli.com/Ck0Eun
 * **Lidando com a Maldição da Dimensionalidade** https://bit.ly/3BhJ27K
-* **Prevendo as Vítimas da Espaçonave Titanic** https://bityli.com/rbwTh
+* **Prevendo as vítimas da Espaçonave Titanic** https://bityli.com/rbwTh
 ---
 
 
