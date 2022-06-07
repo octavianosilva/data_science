@@ -25,6 +25,7 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 * **Detecção de Fake News com Redes Neurais**  https://bityli.com/Ck0Eun
 * **Lidando com a Maldição da Dimensionalidade** https://bit.ly/3BhJ27K
 * **Prevendo as vítimas da Espaçonave Titanic** https://bityli.com/rbwTh
+* **Aplicando o AutoML para prever as vítimas da Espaçonave Titanic** https://bityli.com/WexSRW
 ---
 
 
