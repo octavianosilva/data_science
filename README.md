@@ -26,7 +26,7 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 * **Lidando com a Maldição da Dimensionalidade** https://bit.ly/3BhJ27K
 * **Prevendo as vítimas da Espaçonave Titanic** https://bityli.com/rbwTh
 * **Aplicando o AutoML para prever as vítimas da Espaçonave Titanic** https://bityli.com/WexSRW
-* **Realizando uma Análise RFM em clientes e sinalizando suspeitas de manipulações de dados** https://bityli.com/FeTnVY
+* **Realizando uma Análise RFM em clientes e sinalizando suspeitas de manipulações de dados** https://bityli.com/UhzavZ
 ---
 
 
