@@ -10,7 +10,7 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 **Background in:** Python, Machine Learning, CLP/PLC, Sistemas Supervisórios, Data Science.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/octaviano-silva-74a530207/)
+* [LinkedIn](https://www.linkedin.com/in/octavianosilva/)
 
 
 ## Projetos:
