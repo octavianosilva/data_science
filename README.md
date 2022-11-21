@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" >
+  <img src="baner.jpg" >
 </p>
 
 # Octaviano Silva
@@ -41,21 +41,6 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 * **Realizando uma Análise RFM em clientes e sinalizando suspeitas de manipulações de dados** [Código do Projeto](https://github.com/octavianosilva/data_science/blob/main/Análise_RFM_em_clientes_e_detectando_anomalias_nos_dados.ipynb) | [Artigo do Projeto](https://www.linkedin.com/pulse/uma-análise-rfm-em-clientes-com-detecção-de-anomalias-octaviano-silva/)
 
 * **Extraindo Informações dos Usuários do LinkedIn com WebScraping** [Código do Projeto](https://github.com/octavianosilva/data_science/blob/main/WebScraping%20no%20LinkedIn.ipynb)
-
-
-
-* **Analisando dados do Airbnb em Tóquio** https://bityli.com/1klAm
-* **Analisando a violência no Rio de Janeiro** https://bityli.com/JG41m
-* **Estudo de caso da COVID-19** https://bityli.com/8fbdc
-* **Detecção de fraudes em cartões de crédito** https://cutt.ly/SmqFiaA
-* **Churn Prediction em Telecomunicações** https://bityli.com/I6hkE
-* **Análise de Risco de Crédito** https://bityli.com/NJDJy
-* **Deploy de API para previsão de preços de apartamentos na cidade de São Paulo** https://bityli.com/O64Z6T
-* **Detecção de Fake News com Redes Neurais**  https://bityli.com/Ck0Eun
-* **Lidando com a Maldição da Dimensionalidade** https://bit.ly/3BhJ27K
-* **Prevendo as vítimas da Espaçonave Titanic** https://bityli.com/rbwTh
-* **Aplicando o AutoML para prever as vítimas da Espaçonave Titanic** https://bityli.com/WexSRW
-* **Realizando uma Análise RFM em clientes e sinalizando suspeitas de manipulações de dados** https://bityli.com/UhzavZ
 ---
 
 
