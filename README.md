@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="baner.jpg" >
+  <img src="banner.jpg" >
 </p>
 
 # Octaviano Silva
