@@ -41,6 +41,8 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 * **Realizando uma Análise RFM em clientes e sinalizando suspeitas de manipulações de dados** [Código do Projeto](https://github.com/octavianosilva/data_science/blob/main/Análise_RFM_em_clientes_e_detectando_anomalias_nos_dados.ipynb) | [Artigo do Projeto](https://www.linkedin.com/pulse/uma-análise-rfm-em-clientes-com-detecção-de-anomalias-octaviano-silva/)
 
 * **Extraindo Informações dos Usuários do LinkedIn com WebScraping** [Código do Projeto](https://github.com/octavianosilva/data_science/blob/main/WebScraping%20no%20LinkedIn.ipynb)
+
+* **Classificando Imagens de Cães e Gatos com Redes Neurais** [Código do Projeto](https://github.com/octavianosilva/data_science/blob/main/Classificando_Gatos_e_Cachorros.ipynb) | [Artigo do Projeto]()
 ---
 
 
