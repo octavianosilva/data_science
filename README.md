@@ -42,7 +42,7 @@ Durante minha graduação na área de tecnologia, me interessei pelo tema **Inte
 
 * **Extraindo Informações dos Usuários do LinkedIn com WebScraping** [Código do Projeto](https://github.com/octavianosilva/data_science/blob/main/WebScraping%20no%20LinkedIn.ipynb)
 
-* **Classificando Imagens de Cães e Gatos com Redes Neurais** [Código do Projeto](https://github.com/octavianosilva/data_science/blob/main/Classificando_Gatos_e_Cachorros.ipynb) | [Artigo do Projeto]()
+* **Classificando Imagens de Cães e Gatos com Redes Neurais** [Código do Projeto](https://github.com/octavianosilva/data_science/blob/main/Classificando_Gatos_e_Cachorros.ipynb) | [Artigo do Projeto](https://www.linkedin.com/pulse/classificando-c%25C3%25A3es-e-gatos-com-redes-neurais-octaviano-silva)
 ---
 
 
